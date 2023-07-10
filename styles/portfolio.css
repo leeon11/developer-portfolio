@@ -122,6 +122,29 @@ font-size: 45px;
         background: #FFF8F3;
         margin-top: 100px ;
     }
+    main{
+        max-width: 1140px;
+        margin: 0 auto;
+    }
+    .about-info-container{
+        display: flex;
+        justify-content: space-around;
+        align-items:center ;
+        /* margin-bottom: 10px */
+    }
    
+    .about-info{
+        text-align:center ;
+        color: #757575;
+        font-size: 20px;
+        font-weight: 400;
+        
+    }
+  .info-title {
+    
+    
+
+
+   } 
 
    
